@@ -10,7 +10,7 @@ const app = express();
 const User = require("./models/User");
 
 
-//I was hereaaaaaaaaaaa
+//I was hereaaaaaaaaaaaaaa
 
 
 // Config JSON response
